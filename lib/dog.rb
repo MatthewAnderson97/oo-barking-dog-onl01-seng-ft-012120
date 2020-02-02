@@ -1,3 +1,3 @@
 class Dog 
-  def name
+  def name(dogs_name)
    @name # Your code goes here!
