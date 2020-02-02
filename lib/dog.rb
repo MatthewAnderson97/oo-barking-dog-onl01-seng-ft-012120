@@ -1,3 +1,8 @@
 class Dog 
-  def name(dogs_name)
-   @name # Your code goes here!
+  def name
+   @name
+   end
+   
+   def bark
+     puts "woof!"
+     end# Your code goes here!
